@@ -1,3 +1,5 @@
 TODO.md
 .tmp.drivedownload
 .tmp.driveupload
+.idea
+__pycache__
